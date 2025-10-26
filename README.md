@@ -62,6 +62,7 @@ On certain occasions, there is a discount that is applicable to group session pa
 <img width="672" height="185" alt="image" src="https://github.com/user-attachments/assets/630c3081-9734-43e1-a765-1094480328f3" />
 
 <img width="660" height="336" alt="image" src="https://github.com/user-attachments/assets/786ec467-bde3-4238-a80e-d81467ec5a15" />
+
 ## Queries:
 USE ns_F25MIST4610_62755_Group5;
 
