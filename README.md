@@ -68,37 +68,37 @@ This query provides important information about clients who attend a higher numb
 
 5. List the contact information including name, number, and email of all staff that have the ACE certification - Allison
 
-Insert Screenshot Here
+<img width="625" height="234" alt="image" src="https://github.com/user-attachments/assets/d3f2da61-e57a-4b14-b459-702e0165072f" />
 
 This query lists information for any staff member that has an ACE certification, which will be useful from a managerial perspective to identify specific staff members needed for classes requiring the ACE certification. This query can also be edited to identify staff members with other certifications. 
 
 6. List all clients who have come to more than 5 group fitness class 
 
-Insert Screenshot Here
+<img width="624" height="243" alt="image" src="https://github.com/user-attachments/assets/4f03f2fe-f6e2-4633-93c8-caaf793e1a26" />
 
 This query is helpful from a managerial perspective to identify repeat clients for group fitness classes.
 
 7. List all students who have taken a morning yoga class and morning cycle class before 
 
-Insert Screenshot Here
+<img width="625" height="162" alt="image" src="https://github.com/user-attachments/assets/b05eab44-a651-430c-8f4e-772413f926c1" />
 
 From a managerial perspective, UGA Fitness and Wellness likes to see which classes are popular among students to know if they are worth having. This query returns the number of students that attended cycling classes on Thursdays.  
 
 8. List the client who attended both yoga sessions on September 20th, 2025. - Colby
 
-Insert Screenshot Here
+<img width="626" height="194" alt="image" src="https://github.com/user-attachments/assets/c6734187-d568-4d4e-945b-338f3c0cd5d6" />
 
 From a managerial perspective, this query helps us identify highly engaged clients who attend multiple sessions of the same activity in one day. We wanted to see if there were any clients committed enough to attend two sessions in one day.
 
 9. List the most active client's based of attendance who have attended to more than 3 classes 
 
-Insert Screenshot Here
+<img width="625" height="309" alt="image" src="https://github.com/user-attachments/assets/66106007-ba47-44d5-96e1-3460abf8db71" />
 
 From a managerial perspective, UGA Fitness and wellness can use this query to identify highly active clients, as frequent attendance predicts stronger retention. This helps managers target loyalty efforts and encourage continued engagement.
 
 10. List the instructor's name, the number of sessions, the date the session starts and the client's names based on the class being in Studio A
 
-Insert Screenshot Here
+<img width="625" height="313" alt="image" src="https://github.com/user-attachments/assets/780fbaa6-0215-4563-8505-f47deb7aae60" />
 
 This query can be used to identify information on a specific class session as long as the studio is A. This can also be changed to identify information on other studios.
 
