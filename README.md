@@ -40,25 +40,27 @@ USE ns_F25MIST4610_62755_Group5;
 ### Simple
 1. List the class types offered
 
-Insert Screenshot Here
+<img width="627" height="219" alt="image" src="https://github.com/user-attachments/assets/2db468af-b94b-4c65-a3cc-c60749450b1e" />
+
 
 This query provides a summary of the different activity categories that are offered by the Department of Recreation Sports, making it quick for a manager to observe.
 
 2. List all client information - Theresa
 
-Insert Screenshot Here
+<img width="625" height="302" alt="image" src="https://github.com/user-attachments/assets/501a27b9-1ea7-41d1-bb48-809965d05c0f" />
+
 
 This query provides the necessary information about the clients of Recreation Sports that a manager would need to store.
 
 3. List classes on a Tuesday in the afternoon (12pm–7pm)
 
-Insert Screenshot Here
+<img width="626" height="315" alt="image" src="https://github.com/user-attachments/assets/d082b9c5-c455-43cd-aefb-b58bcfdf0c69" />
 
 From a managerial perspective, this query helps identify which classes are scheduled in the afternoon on Tuesdays. Managers can use this to balance instructor workloads, allocate resources and ensure classes are spread evenly throughout the day.
 
 4. List average package prices of clients that attend more than five classes a week.-Evan
 
-Insert Screenshot Here
+<img width="626" height="312" alt="image" src="https://github.com/user-attachments/assets/7bbb3f2f-d9a0-4c85-8c93-8ceecb0499da" />
 
 This query provides important information about clients who attend a higher number of classes per week.
 
@@ -99,6 +101,7 @@ From a managerial perspective, UGA Fitness and wellness can use this query to id
 Insert Screenshot Here
 
 This query can be used to identify information on a specific class session as long as the studio is A. This can also be changed to identify information on other studios.
+
 
 
 
