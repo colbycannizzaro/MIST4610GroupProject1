@@ -1,3 +1,4 @@
+
 # Group 5 MIST 4610 Group Project 1
 A brief description of what this project does and who it's for
 
@@ -71,6 +72,35 @@ This query lists information for any staff member that has an ACE certification,
 
 6. List all clients who have come to more than 5 group fitness class 
 
+Insert Screenshot Here
+
+This query is helpful from a managerial perspective to identify repeat clients for group fitness classes.
+
+7. List all students who have taken a morning yoga class and morning cycle class before 
+
+Insert Screenshot Here
+
+From a managerial perspective, UGA Fitness and Wellness likes to see which classes are popular among students to know if they are worth having. This query returns the number of students that attended cycling classes on Thursdays.  
+
+8. List the client who attended both yoga sessions on September 20th, 2025. - Colby
+
+Insert Screenshot Here
+
+From a managerial perspective, this query helps us identify highly engaged clients who attend multiple sessions of the same activity in one day. We wanted to see if there were any clients committed enough to attend two sessions in one day.
+
+9. List the most active client's based of attendance who have attended to more than 3 classes 
+
+Insert Screenshot Here
+
+From a managerial perspective, UGA Fitness and wellness can use this query to identify highly active clients, as frequent attendance predicts stronger retention. This helps managers target loyalty efforts and encourage continued engagement.
+
+10. List the instructor's name, the number of sessions, the date the session starts and the client's names based on the class being in Studio A
+
+Insert Screenshot Here
+
+This query can be used to identify information on a specific class session as long as the studio is A. This can also be changed to identify information on other studios.
+
+
 
 
 
@@ -86,5 +116,3 @@ This query lists information for any staff member that has an ACE certification,
 
 ## Database Information:
 Data Base Information: Name of the database: ns_F25MIST4610_62755_Group5
-
-![App Screenshot](https://github.com/colbycannizzaro/MIST4610GroupProject1/blob/25ca4b8bba8a1a8e8b96cb06319b74019f6be103/unknown.png)
