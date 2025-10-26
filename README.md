@@ -117,5 +117,7 @@ This query can be used to identify information on a specific class session as lo
 
 
 
-## Database Information:
-Data Base Information: Name of the database: ns_F25MIST4610_62755_Group5
+## Database Information: 
+1. Name of the database: ns_F25MIST4610_62755_Group5
+2. Each query has been bookmarked in the database as a stored procedure for easy execution and grading. Stored procedures follow the naming convention TP_Qx where x corresponds to the query number. For example:
+CALL TP_Q1();
