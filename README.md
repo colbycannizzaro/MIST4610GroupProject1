@@ -9,7 +9,8 @@
 2. Colby Cannizzaro [@colbycannizzaro](https://github.com/colbycannizzaro/MIST4610GroupProject1)
 3. Evan Liu [@evanliu](https://github.com/evanl0l/4610)
 4. Theresa Nguyen[@theresanguyen](https://www.github.com/RipleyKurtz)
-5. Allison Ramirez Diaz [@allisonramirezdiaz](https://www.github.com/quoysimpson)
+5. Allison Ramirez Diaz [@allisonramirezdiaz](https://github.com/agr56264/MIST4610_GROUP5_Project1
+)
 
 ## Scenario Description:
 The UGA Department of Recreational Sports in the Division of Student Affairs wants to create a database that keeps track of information about the various sports sessions offered, the staff that run the activities, and the clients that wish to participate in these activities. 
