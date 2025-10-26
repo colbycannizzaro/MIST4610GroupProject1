@@ -9,8 +9,8 @@ A brief description of what this project does and who it's for
 1. Armaan Bhasin [@armaanbhasin](https://www.github.com/taralbpatel)
 2. Colby Cannizzaro [@colbycannizzaro](https://github.com/colbycannizzaro/MIST4610GroupProject1)
 3. Evan Liu [@evanliu](https://github.com/evanl0l/4610)
-4. Theresa Nguyen[@ripleykurtz](https://www.github.com/RipleyKurtz)
-5. Allison Ramirez Diaz [@sequoyethsimpson](https://www.github.com/quoysimpson)
+4. Theresa Nguyen[@theresanguyen](https://www.github.com/RipleyKurtz)
+5. Allison Ramirez Diaz [@allisonramirezdiaz](https://www.github.com/quoysimpson)
 
 ## Scenario Description:
 The UGA Department of Recreation Sports in the Division of Student Affairs wants to create a database that keeps track of information about the various sports sessions offered, the staff that run the activities, and the clients that wish to participate in these activities. 
